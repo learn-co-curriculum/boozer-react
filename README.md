@@ -26,4 +26,7 @@ This will create a new app in the directory where you run the command. Simple!
 Once you finish the above features, start implementing the below user stories. **NOTE** You will have to add endpoints to the API to make these work properly.
 
 0. As a user, I should be able to create a new cocktail. This means we will need a form where I can enter a cocktail name, description, instructions, and multiple proportions. The form should be dynamic - I should be able to choose how many different proportions I want to add.
-1. As a user, I can filter the list of cocktails by name. This means I need a search input to enter in a name. Our list should then only show cocktails whose name matches.  
+
+**NOTE** - there is a lot of functionality tied up in this one user story. You probably need to break this one up into multiple stories. Focus on small pieces of work at a time. First, maybe you want to make a form that just has a user enter in a cocktail name? Then let the user submit that form? Then add a hard-coded number of proportions? Build in small chunks and don't worry about edge cases to start. Pretend that the user will do everything perfectly.
+
+1. As a user, I can filter the list of cocktails by name. This means I need a search input to enter in a name. Our list should then only show cocktails whose name matches.
