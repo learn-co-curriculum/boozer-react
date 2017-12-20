@@ -44,7 +44,6 @@ Here is an example of what an MVP might look like, there is plenty of room to ex
 ![Boozer](Boozer.gif)
 
 
-
 ### Additional Goals
 
 As a user, I can filter the list of cocktails by name. This means I need a search input to enter in a name. Our list should then only show cocktails whose name matches.
