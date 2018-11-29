@@ -1,7 +1,7 @@
 # Boozer React Mini-Project
 
 We have provided you with a Rails backend found here:
-https://github.com/learn-co-curriculum/boozer-api-web-0716
+https://github.com/learn-co-students/boozer-api-backend
 
 We'll be building the React frontend from scratch using an awesome tool from facebook to bootstrap our app called `create-react-app`. To use it, first, install the package globally (for CLI tools, we usually install npm packages in a global location)
 
